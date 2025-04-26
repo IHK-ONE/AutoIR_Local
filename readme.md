@@ -14,7 +14,7 @@ AutoIR/
   │   └── functions.py      # 静态方法
   │
   ├── extensions/
-  │   ├── chkrookit         # rookit 检测扩展
+  │   └── chkrookit         # rookit 检测扩展
   │
   └── plugins/
       ├── __init__.py 
